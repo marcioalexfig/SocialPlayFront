@@ -1,0 +1,45 @@
+{
+  "name": "socialplay_front",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Márcio Alex",
+  "dependencies": {
+    "@rodrigogs/xvideos": "^1.1.1",
+    "axios": "^0.18.1",
+    "dateformat": "^3.0.0",
+    "dotenv": "^5.0.1",
+    "icheck": "^1.0.2",
+    "lodash": "^4.17.15",
+    "node-instagram": "^4.1.0",
+    "nodemon": "^2.0.2",
+    "react": "^15.6.2",
+    "react-bootstrap": "^0.31.3",
+    "react-bootstrap-date-picker": "^5.1.0",
+    "react-bootstrap-dialog": "^0.9.4",
+    "react-bootstrap-table": "^4.0.3",
+    "react-bootstrap-table-next": "^0.1.4",
+    "react-dom": "^15.6.2",
+    "react-hold-on": "^1.0.1",
+    "react-icheck": "^0.3.8",
+    "react-loading-overlay": "^0.2.5",
+    "react-maskedinput": "^4.0.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^3.0.0",
+    "react-select": "^1.0.0-rc.10",
+    "react-videoplayer": "^0.6.4",
+    "redux": "^4.0.0",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-thunk": "^2.2.0",
+    "ws": "^7.2.3",
+    "zero-fill": "^2.2.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

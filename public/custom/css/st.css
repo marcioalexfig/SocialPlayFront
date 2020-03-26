@@ -1,0 +1,88 @@
+
+/**
+* Cursor hack
+*/
+
+a{
+    cursor: pointer;
+}
+
+/**
+* Table border
+*/
+table{
+   border-collapse:collapse !important;
+}
+
+td{
+   border-top: 1px solid #CCC !important;
+}
+
+/**
+* Mouse over highlight
+*/
+
+.mohl:hover{
+    background: #DEDEDE;
+}
+
+/**
+* Show text on mouse over
+*/
+.stomo span{
+    display: none;
+    margin-left: 5px;
+}
+.stomo:hover span{
+    display: inline-block;
+}
+
+/**
+Cores de itend de menu
+*/
+.menu-solicitacoes {
+   color: #FF8C00;
+}
+.menu-solicitacoes-subitem{
+	color:#FFD700;
+}
+
+.menu-usuarios{
+	color:rgb(95, 95, 95);
+}
+
+.menu-usuarios-subitem{
+	color:rgb(255, 255, 255);
+}
+
+
+/**
+Cores de Alertas
+*/
+.alerta-expirado{
+	color:rgba(0, 0, 0, 0.836);
+}
+
+.alerta-critico{
+	color:#FF0000;
+}
+
+.alerta-medio{
+	color:rgb(255, 217, 0);
+}
+
+.alerta-leve{
+	color:#03b103;
+}
+
+.alerta-naoseaplica{
+	color:#b0b3b0;
+}
+
+.cor-excel{
+	color:#027402;
+}
+
+.cor-word{
+	color:#0356c2;
+}
