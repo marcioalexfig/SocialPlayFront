@@ -5,7 +5,7 @@
   "author": "Márcio Alex",
   "dependencies": {
     "@rodrigogs/xvideos": "^1.1.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dateformat": "^3.0.0",
     "dotenv": "^5.0.1",
     "icheck": "^1.0.2",
